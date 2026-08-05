@@ -3,6 +3,10 @@
 This full-scale multipage Streamlit application combines four notebook-faithful
 machine-learning projects into one platform:
 
+<a href="https://interactive-machine-learning-portfolio-fwya8x8sb7jckck63w9epu.streamlit.app/UCLA_Admission_Neural_Network" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Open-UCLA%20Admission%20App-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open UCLA Admission App">
+</a>
+
 1. Real Estate Price Prediction
 2. Loan Eligibility Prediction
 3. Mall Customer Segmentation
